@@ -1,6 +1,8 @@
 A website that links to a Maria Database full of book information, simulating a library database system with user login.
 
-You can view existing books, add new books, edit books, and delete books.
+Security login uses an authentication filter to intercept incoming HTTP requests, extract authentication tokens, perform authentication checks, and set up the security context. Comments are included to explain the code.
+
+On the website, you can view existing books, add new books, edit books, and delete books.
 
 Java Backend
 React Frontend
