@@ -1,8 +1,11 @@
 A website that links to a Maria Database full of book information, simulating a library database system with user login.
 
+You can view existing books, add new books, edit books, and delete books.
+
 Java Backend
 React Frontend
 MariaDB Database
+
 
 Login Screen:
 
