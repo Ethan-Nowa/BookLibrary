@@ -4,9 +4,10 @@ Security login uses an authentication filter to intercept incoming HTTP requests
 
 On the website, you can view existing books, add new books, edit books, and delete books.
 
-Java Backend
+Java Backend with Spring Framework
 React Frontend
 MariaDB Database
+Split into a Model-View-Controller (MVC) architecture pattern.
 
 
 Login Screen:
